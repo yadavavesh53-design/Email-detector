@@ -1,0 +1,8 @@
+text,label
+"Congratulations! You won a free iPhone. Click here to claim.",spam
+"Claim your lottery prize now!",spam
+"You have been selected for a cash reward.",spam
+"Hi, are we meeting tomorrow?",ham
+"Please send me the project report.",ham
+"Let's have lunch at 1 PM.",ham
+"Your appointment is confirmed for tomorrow.",ham
