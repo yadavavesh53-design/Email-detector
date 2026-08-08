@@ -2,9 +2,9 @@
 <html>
 <head>
     <title>Email Spam Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>Email Spam Detector</h1>
 
     <form action="/predict" method="POST">
         <textarea name="email" rows="10" cols="50"
